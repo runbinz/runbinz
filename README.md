@@ -42,7 +42,7 @@ CS student & software engineer focused on building reliable systems at scale.
 
 <!-- ── gradient divider ──────────────────────────────────────── -->
 <div align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <br>
@@ -59,10 +59,9 @@ CS student & software engineer focused on building reliable systems at scale.
 
 **`// languages`**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -72,7 +71,6 @@ CS student & software engineer focused on building reliable systems at scale.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **`// data & messaging`**
@@ -88,7 +86,7 @@ CS student & software engineer focused on building reliable systems at scale.
 
 <!-- ── gradient divider ──────────────────────────────────────── -->
 <div align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <br>
@@ -132,7 +130,7 @@ CS student & software engineer focused on building reliable systems at scale.
 
 <!-- ── gradient divider ──────────────────────────────────────── -->
 <div align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <br>
@@ -167,7 +165,7 @@ CS student & software engineer focused on building reliable systems at scale.
 
 <!-- ── gradient divider ──────────────────────────────────────── -->
 <div align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <br>
@@ -182,9 +180,8 @@ CS student & software engineer focused on building reliable systems at scale.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/runbinz)
-[![Email](https://img.shields.io/badge/Email-14141C?style=for-the-badge&logo=gmail&logoColor=F5C0C0)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-31263B?style=for-the-badge&logo=googlechrome&logoColor=5CB198)](https://yoursite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/runbin)
+[![Email](https://img.shields.io/badge/Email-14141C?style=for-the-badge&logo=gmail&logoColor=F5C0C0)](mailto:runbin1000@gmail.com)
 
 <br>
 
@@ -196,17 +193,7 @@ CS student & software engineer focused on building reliable systems at scale.
 
 <div align="center">
 
-<br>
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   "Simplicity is prerequisite for reliability."  — Edsger Dijkstra   │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=runbinz&style=flat-square&color=31263B&label=profile+views" />
 
