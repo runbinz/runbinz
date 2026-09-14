@@ -30,55 +30,13 @@
 <!-- ABOUT                                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<br>
+<div align="center">
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
+CS student & software engineer focused on building reliable systems at scale.
 
-### `◇ about_me.rs`
+`distributed systems` · `backend engineering` · `platform & infrastructure`
 
-```rust
-struct Engineer {
-    name:      &'static str,
-    role:      &'static str,
-    focus:     &'static [&'static str],
-    currently: &'static str,
-}
-
-const RUNBIN: Engineer = Engineer {
-    name:      "Runbin Zhou",
-    role:      "CS Student & Software Engineer",
-    focus:     &[
-        "Distributed Systems",
-        "Backend Engineering",
-        "Platform & Infrastructure",
-    ],
-    currently: "Building reliable systems at scale",
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### `◇ focus_areas.md`
-
-```
-╔══════════════════════════════════════╗
-║                                      ║
-║   ◈  Distributed Systems Design      ║
-║   ◈  Fault Tolerance & Consensus     ║
-║   ◈  High-Performance Backends       ║
-║   ◈  Platform Engineering            ║
-║   ◈  Infrastructure as Code          ║
-║   ◈  Systems Programming             ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
