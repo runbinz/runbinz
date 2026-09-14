@@ -102,13 +102,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**[`order_system`](https://github.com/runbinz/order_system)** &nbsp; `Public`
+**[`order_system`](https://github.com/runbinz/order_system)** &nbsp; `Python`
 > End-to-end order processing system with microservice architecture.
 
 </td>
 <td width="50%" valign="top">
 
-**[`solana_wallet_tracker`](https://github.com/runbinz/solana_wallet_tracker)** &nbsp; `Public`
+**[`solana_wallet_tracker`](https://github.com/runbinz/solana_wallet_tracker)** &nbsp; `Go & TypeScript`
 > Real-time Solana blockchain wallet tracking and monitoring tool.
 
 </td>
